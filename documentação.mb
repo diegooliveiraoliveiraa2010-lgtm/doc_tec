@@ -1,1 +1,14 @@
+Escola:Colegio Estadual Alcântara Carvalho.
 
+Grupo:João victor, Gustavo, Diego.
+
+
+Usabilidade:pixel adventure e um jogo de plataforma 2D desenvolvido no godot como um jogo de passa fase
+onde o objetivo e pegar as frutas durante o caminho e com mecanica de  escalar nas paredes,
+com a macanica de trocar de perssonagem após passa por cima de uma "plataforma" com a skin 
+abaixo um sapo um indio e astronauta sendo um jogo para desestresse.
+
+
+Erros/Bugs:
+.possui frutas no codigo, porem não tem no jogo ex:banana, abacaxi, morango.
+.
